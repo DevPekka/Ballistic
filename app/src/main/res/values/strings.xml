@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Ballistic Part</string>
+
+    <!-->Photoshop (1) <-->
+    <string name="inThis">In this tutorial, you will learn how to use the Repousse tool to create a 3D grungy text effect. We will be using Adobe Photoshop CS5 — unfortunately, the Repousse tool is not available in older versions of Photoshop. So if you have CS3 or 4, let this inspire you to upgrade.</string>
+    <string name="Material">We will be using the 2 textures below to give our 3D text some character.</string>
+    <string name="Material1"><b>Material 1</b>: This texture will be used for the text.</string>
+    <string name="Material2"><b>Material 2</b>: This will be used as the background.</string>
+    <string name="Material3">First, use the Type tool (T) to type a word — I’m using “BOOM!”</string>
+    <string name="Material4">With the text layer selected, go to 3D > Repousse > Text Layer.”</string>
+    <string name="Material5">You can change the text perspective to whatever you like.</string>
+    <string name="Material6">With the text layer still selected, go to <b>Window > 3D</b> Then, in the <b>3D (materials)</b> tab, choose Load Texture and pick Material 1.</string>
+    <string name="Material7">Insert Material 1 into both <b>Front Inflation Material</b> and <b>Extrusion Material</b>.</string>
+    <string name="Material8">Now that you’ve placed your texture on the letters, we want to smooth the edges.</string>
+    <string name="Material9">In the <b>3D (Scene) tab</b>, scroll up and select Scene, and in the Quality dropdown menu select <b>Ray Traced Draft</b>. Sit back, relax and wait while the rendering process is complete.</string>
+
+    <!-->Photoshop (2) <-->
+    <string name="HowTo"><b>How to Make Letter Press effect in Photoshop</b></string>
+    <string name="introText">When you open Photoshop CS version, it\'s usually you will noticed the logo text just like pressed inside. That\'s is <b>Letter Press</b>. Now let\'s begin</string>
+    <string name="first">First, create a text by press <b>T</b> on Photoshop then start writing whatever you want to. I\'am using Justice League font with size 34.</string>
+    <string name="second">Double click text layer until showing up <b>Layer Style</b>. Then click <b>Inner Shadow</b>. Change the opacity to suit your needs. </string>
+    <string name="the_end">All right, the Letter Press text is done, now if you want to beautify your text, you can add some <b>Shadow</b> or <b>Bevel and Emboss</b>.</string>
+
+    <!-->Photoshop (3)<-->
+    <string name="HowTo1"><b>How to color grading photo in Photoshop</b></string>
+    <string name="introText1">If your photo is bored look like, you can just add some color grading on it, But i think you can do lot more than that. Here the Before and After.</string>
+    <string name="first1">First, open Photoshop then click <b>File --> Open</b> and select the image that you want. After that unlock the image in layer tab (bottom right, labelled Lock Sign), click the lock sign 1 time.</string>
+    <string name="second2">Go to <b>Camera raw filter</b>, click <b>Filter --> Camera Raw Filter</b> </string>
+    <string name="Third">After the box is showed up, you can play with the Tempreture or Tint or something, but i recommend if you want to change your picture to make it better, take an example from the picture, if the picture color is Orange then slide the temperature to right, or if your photo default temperature is blue, you can slide the temperature to the left. Like this picture:</string>
+    <string name="thePre_end">After you finish, just click <b>Ok</b> then the picture is ready to export.</string>
+    <string name="the_end2">Thanks for the attention and have fun :).</string>
+
+    <string-array name="adapt">
+        <item>How to make 3D Text</item>
+        <item>How to make Letter Press effect</item>
+        <item>How to color grading in Photoshop</item>
+    </string-array>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7792211460833633/5904000700</string>
+</resources>
